@@ -1,0 +1,1 @@
+var1=$(echo $FT_NBR1 | tr ''\''\\"?!' "01234"); var2=$(echo $FT_NBR2 | tr 'mrdoc' '01234');var3=$(bc <<< "ibase=5;$var1") ; var4=$(bc <<< "ibase=5; $var2") ; var5=`echo "$var3+$var4" | bc` ; var6=$(bc <<< "ibase = 10 ;obase=13; $var5");echo $var6 | tr '0123456789ABC' 'gtaio luSnemf'

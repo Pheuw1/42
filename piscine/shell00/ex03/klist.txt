@@ -1,0 +1,6 @@
+Credentials cache: API:4519
+        Principal: gmehdevi@42NICE.FR
+
+  Issued                Expires               Principal
+Jul  6 18:52:52 2021  Jul  7 04:52:52 2021  krbtgt/42NICE.FR@42NICE.FR
+Jul  6 18:52:56 2021  Jul  7 04:52:52 2021  HTTP/student-storage.42nice.fr@42NICE.FR

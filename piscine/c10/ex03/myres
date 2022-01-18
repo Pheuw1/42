@@ -1,0 +1,2 @@
+ft_hexdump: tests/dir: Is a directory
+ft_hexdump: tests/cant_read_this: Permission denied
